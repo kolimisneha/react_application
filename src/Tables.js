@@ -14,19 +14,33 @@ function Tables(){
                 <tbody>
                     <tr>
                         <td>sneha</td>
-                        <td>sneha bihojou</td>
-                        <td>sneha</td>
+                        <td>123</td>
+                        <td>kamareddy</td>
                     </tr>
                     <tr>
-                        <td>Decrement</td>
-                        <td>sneha</td>
-                        <td>sneha</td>
+                        <td>sravya</td>
+                        <td>124</td>
+                        <td>nizamabad</td>
+                    </tr>
+                    <tr>
+                        <td>sekhar</td>
+                        <td>125</td>
+                        <td>chittor</td>
                     </tr>
                 </tbody>
             </table>
             <div className='image'>
                 <img src='https://th.bing.com/th/id/OIP.vHHBwcUFUaHWXntSnqKdCAAAAA?rs=1&pid=ImgDetMain'/>
             </div>
+            <section>
+             hello kmit welcome to narayanguda to Learn something
+            </section>
+            <footer>
+                <h1>KOLIMI SNEHA 2024
+                </h1>
+                <h3>kolimisneha123@gmail.com</h3>
+            </footer>
+
         </div>
        
     )
